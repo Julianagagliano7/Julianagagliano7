@@ -29,5 +29,6 @@
  </div>
   
   ##
-  ### Frequência de Commits📈:
+  ### Jogo da 🐍:
+  - Frequência de Commits📈
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
