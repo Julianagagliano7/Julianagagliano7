@@ -2,7 +2,7 @@
 
 - 📚 Estou aprendendo : Desenvolvimento Web para atuar no Front-End. 
 - 📌 Linguagens que mais utilizo: JavaScript/ HTML / CSS. 
-- 😎 Conhecimentos complementares: Lógica de Programação em Python e C++ 
+- 😎 Conhecimentos complementares: Lógica de Programação em Python e C++ / Inglês Avançado 🤟 
 - 🎡 Meus principais hobbies são: Jogar futebol com meus amigos⚽, curtir uma praia 🌞 e ouvir um bom rock alternativo 🎵 
 
 <br>
@@ -29,5 +29,5 @@
  </div>
   
   ##
-  
-  
+  ### Frequência de Commits📈:
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
