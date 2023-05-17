@@ -2,7 +2,7 @@
 
 - 📚 Estou aprendendo : Desenvolvimento Web para atuar no Front-End com a One Bit Code!🤟
 - 📌 Linguagens que mais utilizo: JavaScript/ HTML / CSS. 
-- 😎 Conhecimentos complementares: Lógica de Programação em Python e C++ / Inglês Avançado / SQL Básico
+- 😎 Conhecimentos complementares: Lógica de Programação em Python e C++ / Inglês Avançado / SQL intermediário e Postgres Básico
 - 🎡 Meus principais hobbies são: Jogar futebol com meus amigos⚽, curtir uma praia 🌞 e ouvir um bom rock alternativo 🎵 
 
 <br>
