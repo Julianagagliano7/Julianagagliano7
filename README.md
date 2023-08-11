@@ -1,6 +1,6 @@
 ### Olá, eu sou a Juliana Gagliano!! 👋🏻
 
-- Atuo como Desenvolvedora Front-End Jr na @Convem 🛒
+- 🛒 Atuo como Desenvolvedora Front-End Jr na @Convem 
 - 📚 Estou me aprofundando em: Desenvolvimento Web com as plataformas One Bit Code e Alura
 - 📌 Linguagens que mais utilizo: JavaScript/ TypeScript/ PHP/ CSS/ HTML
 - 😎 Conhecimentos complementares: Bancos de Dados (MySQL, Postgrees, DynamoDB)
@@ -29,7 +29,3 @@
   <a href="https://instagram.com/juliana_gagliano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  </div>
   
-  ##
-  ### Jogo da 🐍:
-  - Frequência de Commits📈
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
