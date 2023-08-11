@@ -1,8 +1,9 @@
 ### Olá, eu sou a Juliana Gagliano!! 👋🏻
 
-- 📚 Estou aprendendo : Desenvolvimento Web para atuar no Front-End com a One Bit Code!🤟
-- 📌 Linguagens que mais utilizo: JavaScript/ HTML / CSS. 
-- 😎 Conhecimentos complementares: Lógica de Programação em Python e C++ / Inglês Avançado / SQL intermediário e Postgres Básico
+- Atuo como Desenvolvedora Front-End Jr na @Convem 🛒
+- 📚 Estou me aprofundando em: Desenvolvimento Web com as plataformas One Bit Code e Alura
+- 📌 Linguagens que mais utilizo: JavaScript/ TypeScript/ PHP/ CSS/ HTML
+- 😎 Conhecimentos complementares: Bancos de Dados (MySQL, Postgrees, DynamoDB)
 - 🎡 Meus principais hobbies são: Jogar futebol com meus amigos⚽, curtir uma praia 🌞 e ouvir um bom rock alternativo 🎵 
 
 <br>
