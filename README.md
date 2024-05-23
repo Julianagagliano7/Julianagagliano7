@@ -1,6 +1,6 @@
 ### Olá, eu sou a Juliana Gagliano!! 👋🏻
 
-- 🛒 Atuo como Desenvolvedora Front-End Jr na @Convem 
+- 🛒 Atuo como Desenvolvedora de Software na @Convem 
 - 📚 Estou me aprofundando em: Desenvolvimento Web com as plataformas One Bit Code e Alura
 - 📌 Linguagens que mais utilizo: JavaScript/ TypeScript/ PHP/ CSS/ HTML
 - 😎 Conhecimentos complementares: Bancos de Dados (MySQL, Postgrees, DynamoDB)
