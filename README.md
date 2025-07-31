@@ -1,9 +1,11 @@
-### Olá, eu sou a Juliana Gagliano!! 👋🏻
+### Olá, meu nome é Juliana Gagliano!! 👋🏻
 
-- 🛒 Atuo como Desenvolvedora de Software na @Convem 
-- 📚 Estou me aprofundando em: Desenvolvimento Web com as plataformas One Bit Code e Alura
-- 📌 Linguagens que mais utilizo: JavaScript/ TypeScript/ PHP/ CSS/ HTML
-- 😎 Conhecimentos complementares: Bancos de Dados (MySQL, Postgrees, DynamoDB)
+- 💳 Atuo como Desenvolvedora de FullStack na @TupiFintech
+- 🤓 Tenho experiência prática com: TypeScript, PHP, React, Node.js e AWS
+- 🪙 Possuo experiência na área de pagamentos (BaaS/PaaS) com integrações em produção em diversas IPs como: BTG, Asaas, Genial, Celcoin, Bitso
+- 📚 Estou estudando Golang 
+- 📌 Linguagens que mais utilizo: Typescript/Golang
+- ⭐ Conhecimentos complementares: Bancos de Dados (MySQL, Postgrees, DynamoDB)
 - 🎡 Meus principais hobbies são: Jogar futebol com meus amigos⚽, curtir uma praia 🌞 e ouvir um bom rock alternativo 🎵 
 
 <br>
