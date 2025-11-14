@@ -1,6 +1,6 @@
 ### Olá, meu nome é Juliana Gagliano!! 👋🏻
 
-- 💳 Atuo como Desenvolvedora de FullStack na @TupiFintech
+- 💳 Atuo como Desenvolvedora FullStack na @TupiFintech
 - 🤓 Tenho experiência prática com: TypeScript, PHP, React, Node.js e AWS
 - 🪙 Possuo experiência na área de pagamentos (BaaS/PaaS) com integrações em produção em diversas IPs como: BTG, Asaas, Genial, Celcoin, Bitso
 - 📚 Estou estudando Golang 
